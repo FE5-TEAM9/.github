@@ -13,6 +13,6 @@
 <br />
 
 ### Team.
-|   🖥   | **[김준희](https://github.com/dev-junehee)** | **[송홍빈](https://github.com/hbsongk)** | **[조은상](https://github.com/ChoEun-Sang)** |
+|   Front-End   | **[김준희](https://github.com/dev-junehee)** | **[송홍빈](https://github.com/hbsongk)** | **[조은상](https://github.com/ChoEun-Sang)** |
 |:---------:|:--------:|:--------:|:--------:|
-|  | 팀장 | 팀원 | 팀원 | 팀원 |
+| 🖥  | 팀장 | 팀원 | 팀원 | 팀원 |
